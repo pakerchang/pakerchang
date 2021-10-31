@@ -3,4 +3,4 @@
 ## Languages
 HTML / JS / CSS / React / CSS in JS / Github
 
-![Github-status](https://github-readme-stats.vercel.app/api?username=pakerchang)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pakerchang&show_icons=true&theme=dark)
