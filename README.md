@@ -1,5 +1,5 @@
-# Hi, I'm paker. 
-A Frontend developer.
+# Hi, I'm paker
+A newbie frontend developer 
 
 ## Languages
 HTML / JS / CSS / React / CSS in JS / Github
