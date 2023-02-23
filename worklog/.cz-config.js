@@ -1,17 +1,10 @@
 module.exports = {
   types: [
     { value: "feat", name: "feat: 增加" },
-    { value: "fix", name: "fix: bug fix" },
     { value: "docs", name: "docs: 修改文件" },
     { value: "del", name: "del: 刪除" },
   ],
-  scopes: [
-    { name: "Components" },
-    { name: "Styles(CSS)" },
-    { name: "Deps" },
-    { name: "Documents" },
-    { name: "Other" },
-  ],
+  scopes: [{ name: "Documents" }, { name: "Other" }],
   messages: {
     type: "選擇更改類型:\n",
     // 如果allow custom scopes为true，则使用
