@@ -7,13 +7,9 @@ module.exports = {
   scopes: [{ name: "Documents" }, { name: "Other" }],
   messages: {
     type: "選擇更改類型:\n",
-    // 如果allow custom scopes为true，则使用
     scope: "選擇 scope（Options）：\n",
     customScope: "請輸入自定義的 scope：",
     subject: "簡述:\n",
-    body: '詳細描述. 使用"|"換行:\n',
-    breaking: "Breaking Changes列表:\n",
-    footer: "關閉的issues列表. E.g.: #31, #34:\n",
     confirmCommit: "確定送出?",
   },
   allowCustomScopes: true,
