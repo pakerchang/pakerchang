@@ -1,1 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pakerchang&count_private=true&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pakerchang)](https://github.com/pakerchang/github-readme-stats) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakerchang&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pakerchang&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pakerchang&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pakerchang&theme=onedark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pakerchang&theme=onedark&utcOffset=8)
