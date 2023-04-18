@@ -1,3 +1,5 @@
+[線上履歷](https://pakerchang.github.io/public/resume.pdf)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakerchang&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pakerchang&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pakerchang&theme=onedark)
