@@ -3,6 +3,13 @@ A React main frontend developer
 [線上履歷](https://pakerchang.github.io/public/resume.pdf)  
 [前公司推薦信](https://pakerchang.github.io/public/sakawa_recommendation.pdf)
 
+---
+
+> 雜用工具集
+
+[Image rename](https://www.npmjs.com/package/@pakerzhang/rename-cli) []()
+[TamperMonkey plugin](https://greasyfork.org/zh-TW/scripts/417890-%E4%BF%AE%E5%BE%A9udemy-subtitle-google%E7%BF%BB%E8%AD%AF%E5%95%8F%E9%A1%8C)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakerchang&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pakerchang&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pakerchang&theme=onedark)
