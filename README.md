@@ -9,13 +9,14 @@ A React main frontend developer
 > 雜用工具
 
 [Image rename](https://www.npmjs.com/package/@pakerzhang/rename-cli)  
+[node_modules cleaner](https://github.com/pakerchang/module-cleaner)
 [TamperMonkey plugin](https://greasyfork.org/zh-TW/scripts/417890-%E4%BF%AE%E5%BE%A9udemy-subtitle-google%E7%BF%BB%E8%AD%AF%E5%95%8F%E9%A1%8C)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakerchang&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pakerchang&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pakerchang&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pakerchang&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pakerchang&theme=onedark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakerchang&theme=onedark)
 
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
