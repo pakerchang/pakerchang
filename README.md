@@ -1,7 +1,8 @@
 A React main frontend developer
 
 ### CV
-[中文](https://docs.google.com/document/d/1_0No9hwFn2VLdSQoURr1rkMt84YpymLEJkJ0YxTikrw/edit?tab=t.0)
+[中文](https://docs.google.com/document/d/1_0No9hwFn2VLdSQoURr1rkMt84YpymLEJkJ0YxTikrw/edit?tab=t.0)   
+
 [English](https://docs.google.com/document/d/1SZq7MTtXlPB5uydna9uFLJGYcKJ16Cc8TPLeOSMkJRk/edit?usp=sharing)
 
 ---
