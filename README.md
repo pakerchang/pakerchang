@@ -1,6 +1,6 @@
 A React main frontend developer
 
-[線上履歷]([https://pakerchang.github.io/public/resume.pdf](https://docs.google.com/document/d/1_0No9hwFn2VLdSQoURr1rkMt84YpymLEJkJ0YxTikrw/edit?tab=t.0))
+[中文 CV](https://docs.google.com/document/d/1_0No9hwFn2VLdSQoURr1rkMt84YpymLEJkJ0YxTikrw/edit?tab=t.0)
 
 ---
 
